@@ -1,0 +1,13 @@
+#include<iostream>
+using namespace std;
+int main(){
+    //string
+    string s;
+    cin >> s;
+    cout << s;
+    return 0;
+}
+
+output:-
+hey bobby
+hey   
