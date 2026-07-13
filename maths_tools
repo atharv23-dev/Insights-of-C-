@@ -1,0 +1,11 @@
+#include<iostream>
+using namespace std;
+int main() {
+    int num1 ,num2;
+    cin >> num1 >> num2;
+    int num3 = num1 + num2;
+    int num4 =num1-num2;
+    cout << "addition: " << num3 <<endl;
+    cout << "subtraction: " << num4;
+    return 0;
+}
