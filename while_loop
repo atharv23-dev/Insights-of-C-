@@ -1,0 +1,15 @@
+#include<iostream>
+using namespace std;
+int main() {
+    int i = 1;
+    while(i < 5){
+        cout << "Michel catson" << i << endl;
+         i = i + 1;
+    }
+}
+output:-
+
+Michel catson1
+Michel catson2
+Michel catson3
+Michel catson4
